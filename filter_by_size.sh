@@ -1,5 +1,5 @@
 /^>/{
-  if(sign_val && strLen>=5000){
+  if(sign_val && strLen>=50){
     print sign_val ORS line
   }
   strLen=line=""
@@ -11,7 +11,7 @@
   line=(line?line ORS:"")$0
 }
 END{
-  if(sign_val && strLen>=5000){
+  if(sign_val && strLen>=50){
     print sign_val ORS line
   }
 }
