@@ -3,9 +3,11 @@ Aqui estão os recursos usados na minha atividade interativa do curso, além do 
 A atividade pode ser repetida baixando o arquivo atividade.html e abrindo-o no navegador.
 
 ## Aulas:
-Aula principal: https://www.youtube.com/watch?v=QUjrDCC0KmI
-Adendo sobre sequenciamento: https://youtu.be/vmHlzMnnOjw
-Sobre grafos de de Bruijn: https://youtu.be/QoFq3Zmzk6k
+<ul>
+  <li>Aula principal: https://www.youtube.com/watch?v=QUjrDCC0KmI</li>
+  <li>Adendo sobre sequenciamento: https://youtu.be/vmHlzMnnOjw</li>
+  <li>Sobre grafos de de Bruijn: https://youtu.be/QoFq3Zmzk6k</li>
+ </ul>
 
 ## Recursos suplementares:
 Eu tomei a decisão de apenas colocar recursos disponíveis gratuitamente
